@@ -10,10 +10,6 @@ Keyzori builds practical tools for managing access to software products while ke
 
 </div>
 
-## About
-
-Our projects focus on straightforward APIs, reliable self-hosting, and maintainable open-source software. Each repository contains its own setup instructions, documentation, and development guidance.
-
 ## Get involved
 
 Questions, ideas, bug reports, and contributions are welcome. Visit the relevant repository to open an issue or pull request, or join the [community support server](https://tsukiyo.cc/join).
