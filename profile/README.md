@@ -2,13 +2,19 @@
 
 <img width="2560" height="720" alt="Keyzori banner" src="https://raw.githubusercontent.com/keyzori/Keyzori/main/.github/assets/banner.png" />
 
-# Open-source software licensing
+# Keyzori
 
-Keyzori builds practical tools for managing access to software products while keeping teams in control of their infrastructure and data.
+Keyzori is an open-source, self-hosted licensing system for software products. It helps developers issue and manage licenses while keeping their infrastructure and licensing data under their control.
 
 [**Keyzori**](https://github.com/keyzori/Keyzori) · [**Documentation**](https://github.com/keyzori/Keyzori/wiki) · [**Contributing**](https://github.com/keyzori/Keyzori/blob/main/CONTRIBUTING.md)
 
 </div>
+
+## Components
+
+- **[Keyzori Server](https://github.com/keyzori/Keyzori)** — The licensing API and administration tools.
+- **[@keyzori/types](https://github.com/keyzori/types)** — Shared public TypeScript types for the API and integrations.
+- **[@keyzori/sdk](https://github.com/keyzori/typescript-sdk)** — A work-in-progress TypeScript SDK for integrating Keyzori into applications.
 
 ## Get involved
 
