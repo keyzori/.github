@@ -18,4 +18,4 @@ Keyzori is an open-source, self-hosted licensing system for software products. I
 
 ## Get involved
 
-Questions, ideas, bug reports, and contributions are welcome. Visit the relevant repository to open an issue or pull request, or join the [community support server](https://tsukiyo.cc/join).
+Questions, ideas, bug reports, and contributions are welcome. Visit the relevant repository to open an issue or pull request, or join the [community support server](https://snibbi.cc/join).
