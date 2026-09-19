@@ -10,12 +10,6 @@ Keyzori is an open-source, self-hosted licensing system for software products. I
 
 </div>
 
-## Components
-
-- **[Keyzori Server](https://github.com/keyzori/Keyzori)** — The licensing API and administration tools.
-- **[@keyzori/types](https://github.com/keyzori/types)** — Shared public TypeScript types for the API and integrations.
-- **[@keyzori/sdk](https://github.com/keyzori/typescript-sdk)** — A work-in-progress TypeScript SDK for integrating Keyzori into applications.
-
 ## Get involved
 
 Questions, ideas, bug reports, and contributions are welcome. Visit the relevant repository to open an issue or pull request, or join the [community support server](https://snibbi.cc/join).
